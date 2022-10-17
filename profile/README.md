@@ -16,3 +16,4 @@
 
 ## Submit a new preset
 
+Go in the [preset](Https://GitHub.com/gradience-presets/preset) repo and follow instructions 
